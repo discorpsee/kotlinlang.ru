@@ -186,7 +186,7 @@ fun printHello(name: String?): Unit {
 ```
 
 <!--The `Unit` return type declaration is also optional. The above code is equivalent to-->
-Указание типа `Unit` в качестве возвращаемого значения тоже не является обязательныи. Код, написанный выше, совершенно идентичен с 
+Указание типа `Unit` в качестве возвращаемого значения тоже не является обязательным. Код, написанный выше, совершенно идентичен с 
 
 ``` kotlin
 fun printHello(name: String?) {
